@@ -6,7 +6,7 @@
  
 *What fun would data be without a story to tell?*
 
-The purpose of this data analysis is to demonstrate different plots that can be created through pandas and Matplotlib based on the following scenario: 
+The purpose of this data analysis is to demonstrate different plots that can be created using pandas and Matplotlib based on the following scenario: 
 
 >	The company, Pymaceuticals, Inc. specializes on developing pharmaceuticals to treat cancer. Pymaceuticals began screening potential treatments for squamous cell carcinoma (SCC), a commonly occurring form of skin cancer. The company recently conducted an animal study to compare the performance of their drug of interest, Capomulin, versus the other treatment regimens. Pymaceuticals’ executive team requested an analysis of the data collected from the animal study. 
 
