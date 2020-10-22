@@ -4,7 +4,7 @@
 
 <h1 align ="center"><span>The Power of Plots</span></h1> 
  
-*What fun would data be without a story to tell?*
+### *What fun would data be without a story to tell?*
 
 The purpose of this data analysis is to demonstrate different plots that can be created using pandas and Matplotlib based on the following scenario: 
 
